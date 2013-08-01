@@ -4,10 +4,10 @@
 	"packages": {
 		"http://world.scribenet.com/packages.json": [
 			{
-				"name": "Scribe: Invisibles",
+				"name": "Sublime Invisibles",
 				"description": "A simplistic Sublime Text plugin to allow for invisible to be hidden or shown via a menu item or key binding",
-				"author": "Scribe Inc.",
-				"homepage": "http://world.scribenet.com/",
+				"author": "Scribe Inc",
+				"homepage": "https://github.com/scribenet/sublime-invisibles",
 				"last_modified": "2013-07-31 23:44:00",
 				"platforms": {
 					"*": [
@@ -19,10 +19,10 @@
 				}
 			},
 			{
-				"name": "Scribe: Iterator",
+				"name": "Sublime Iterator",
 				"description": "A simplistic number iterator; goodbye TextPad",
 				"author": "Scribe Inc.",
-				"homepage": "http://world.scribenet.com/",
+				"homepage": "https://github.com/scribenet/sublime-iterator",
 				"last_modified": "2013-07-31 23:46:00",
 				"platforms": {
 					"*": [
