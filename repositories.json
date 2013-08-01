@@ -7,7 +7,6 @@
 	},
 	"renamed_packages": {},
 	"packages": {
-		"scribenet/sublime-invisibles": [
 			{
 				"name": "sublime-invisibles",
 				"description": "A simplistic Sublime Text plugin to allow for invisible to be hidden or shown via a menu item or key binding",
@@ -22,9 +21,7 @@
 						}
 					]
 				}
-			}
-		],
-		"scribenet/sublime-iterator": [
+			},
 			{
 				"name": "sublime-iterator",
 				"description": "A simplistic number iterator; goodbye TextPad",
@@ -40,6 +37,5 @@
 					]
 				}
 			}
-		]
 	}
 }
