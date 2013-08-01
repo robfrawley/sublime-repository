@@ -5,8 +5,12 @@
 		"https://github.com/scribenet/sublime-iterator"
 	],
 	"package_name_map": {
-		"sublime-invisibles": "Scribe: Sublime Invisibles",
-		"sublime-iterator": "Scribe: Sublime Iterator"
+		"sublime-invisibles": "Scribe Sublime Invisibles",
+		"sublime-iterator": "Scribe Sublime Iterator"
+	},
+	"renamed_packages": {
+		"sublime-invisibles": "Scribe Sublime Invisibles",
+		"sublime-iterator": "Scribe Sublime Iterator"
 	},
 	"packages": {
 		"https://github.com/scribenet/sublime-invisibles": [
