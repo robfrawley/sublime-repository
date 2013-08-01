@@ -1,19 +1,13 @@
 {
 	"schema_version": "1.2",
-	"repositories": [
-		"https://github.com/scribenet/sublime-invisibles",
-		"https://github.com/scribenet/sublime-iterator"
-	],
+	"repositories": [],
 	"package_name_map": {
 		"sublime-invisibles": "Scribe Sublime Invisibles",
 		"sublime-iterator": "Scribe Sublime Iterator"
 	},
-	"renamed_packages": {
-		"sublime-invisibles": "Scribe Sublime Invisibles",
-		"sublime-iterator": "Scribe Sublime Iterator"
-	},
+	"renamed_packages": {},
 	"packages": {
-		"https://github.com/scribenet/sublime-invisibles": [
+		"scribenet/sublime-invisibles": [
 			{
 				"name": "sublime-invisibles",
 				"description": "A simplistic Sublime Text plugin to allow for invisible to be hidden or shown via a menu item or key binding",
@@ -30,7 +24,7 @@
 				}
 			}
 		],
-		"https://github.com/scribenet/sublime-iterator": [
+		"scribenet/sublime-iterator": [
 			{
 				"name": "sublime-iterator",
 				"description": "A simplistic number iterator; goodbye TextPad",
