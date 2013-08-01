@@ -8,7 +8,6 @@
 		"sublime-invisibles": "Scribe: Sublime Invisibles",
 		"sublime-iterator": "Scribe: Sublime Iterator"
 	},
-	"renamed_packages": {},
 	"packages": {
 		"https://github.com/scribenet/sublime-invisibles": [
 			{
@@ -38,7 +37,7 @@
 					"*": [
 						{
 							"version": "0.1.0",
-							"url": "https://codeload.github.com/scribenet/sublime-iterator/zip/master"
+							"url": "https://github.com/scribenet/sublime-iterator"
 						}
 					]
 				}
