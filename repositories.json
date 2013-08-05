@@ -33,6 +33,21 @@
 					}
 				]
 			}
+		},
+		{
+			"name": "scribenet-sublime-xml-validation",
+			"description": "A simple XML validation plugin for Sublime Text",
+			"author": "Scribe Inc.",
+			"homepage": "https://github.com/scribenet/sublime-xml-validation",
+			"last_modified": "2013-08-05 11:00:00",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.1.0",
+						"url": "https://codeload.github.com/scribenet/sublime-xml-validation/zip/master"
+					}
+				]
+			}
 		}
 	]
 }
