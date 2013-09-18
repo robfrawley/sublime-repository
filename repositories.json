@@ -39,11 +39,11 @@
             "description": "Remove trailing spaces",
             "author": "Scribe Inc.",
             "homepage": "https://github.com/scribenet/sublime-trailing-spaces",
-            "last_modified": "2013-09-18 13:00:00",
+            "last_modified": "2013-09-18 13:25:00",
             "platforms": {
                 "*": [
                         {
-                                "version": "0.2.0",
+                                "version": "0.2.1",
                                 "url": "https://codeload.github.com/scribenet/sublime-trailing-spaces/zip/master"
                         }
                 ]
