@@ -64,7 +64,6 @@
                 ]
             }
         },
-        ,
         {
             "name": "scribenet-sublime-encoding",
             "description": "Menu entries to show encoding, as well as convert to UTF-8",
