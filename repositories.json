@@ -54,11 +54,11 @@
             "description": "Collection of useful keybindings",
             "author": "Scribe Inc.",
             "homepage": "https://github.com/scribenet/sublime-keybindings",
-            "last_modified": "2013-09-18 13:10:00",
+            "last_modified": "2013-09-18 14:10:00",
             "platforms": {
                 "*": [
                         {
-                                "version": "0.1.0",
+                                "version": "0.1.2",
                                 "url": "https://codeload.github.com/scribenet/sublime-keybindings/zip/master"
                         }
                 ]
