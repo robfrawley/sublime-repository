@@ -24,11 +24,11 @@
             "description": "A simple sublime build system for validation of XML files.",
             "author": "Scribe Inc",
             "homepage": "https://github.com/scribenet/sublime-validation",
-            "last_modified": "2014-06-05 10:05:00",
+            "last_modified": "2014-06-05 11:50:00",
             "platforms": {
                 "*": [
                     {
-                        "version": "0.1.0",
+                        "version": "0.1.2",
                         "url": "https://codeload.github.com/scribenet/sublime-validation/zip/master"
                     }
                 ]
