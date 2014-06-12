@@ -50,16 +50,16 @@
             }
         },
         {
-            "name": "scribenet-sublime-trailing-spaces",
-            "description": "Remove trailing spaces",
+            "name": "scribenet-sublime-settings",
+            "description": "General setting toggles applicable to Scribe",
             "author": "Scribe Inc.",
-            "homepage": "https://github.com/scribenet/sublime-trailing-spaces",
-            "last_modified": "2013-09-18 13:50:00",
+            "homepage": "https://github.com/scribenet/sublime-settings",
+            "last_modified": "2014-06-12 15:40:00",
             "platforms": {
                 "*": [
                         {
-                                "version": "0.2.3",
-                                "url": "https://codeload.github.com/scribenet/sublime-trailing-spaces/zip/master"
+                                "version": "0.1.0",
+                                "url": "https://codeload.github.com/scribenet/sublime-settings/zip/master"
                         }
                 ]
             }
