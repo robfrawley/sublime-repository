@@ -9,11 +9,11 @@
             "description": "A simplistic Sublime Text plugin to allow for invisible to be hidden or shown via a menu item or key binding",
             "author": "Scribe Inc",
             "homepage": "https://github.com/scribenet/sublime-invisibles",
-            "last_modified": "2013-07-31 23:44:00",
+            "last_modified": "2014-06-11 15:50:00",
             "platforms": {
                 "*": [
                     {
-                        "version": "0.1.4",
+                        "version": "0.1.4.1",
                         "url": "https://codeload.github.com/scribenet/sublime-invisibles/zip/master"
                     }
                 ]
